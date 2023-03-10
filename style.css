@@ -1,9 +1,14 @@
-ul{
+
+
+.l1{
     display: flex;
     justify-content: space-between;
     margin-top: 10px;
     padding-left: 20%;
 
+} 
+nav .l1 li a{
+    list-style: none;
 }
 img{
     float: right;
@@ -292,18 +297,26 @@ lorem{
     width: 40%;
     height: 40%;
 }
-.phoneimage{
+/* .phoneimage{
  height: 20%;
  margin-right: 70%;
  width: 20%;
-}
+} */
  .lastparagraph{
  background-color: #fff0f6; 
+ display: grid;
+ grid-template-columns: repeat(2,1fr);
+
+ }
+ .lastparagraph img{
+    width: 50%;
+    height: 50vh;
+     margin-right: 10px; 
  }
 
 .App{
     font-size: 40px;
-    text-align: center;
+    /* text-align: center; */
 }
 .bestoffer{
 text-align: center;
@@ -316,7 +329,28 @@ text-align: center;
  margin-bottom: 100%;
   padding-top: 80px; 
 } */
-
-
-
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+}
+ .footer-list{
+     background: black;
+     color: white;
+    padding-left: 200px;
+    padding-right: 100px;
+} 
+.footer-list ul{
+    
+    list-style:none ;
+    padding: 0;
+    margin-right: 10px;
+    margin-left: 0px;
+}
+.footer-list ul li{
+    padding: 5px;
+    display: flex;
+    
+}
 
