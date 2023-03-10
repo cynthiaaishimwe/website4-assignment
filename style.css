@@ -1,0 +1,322 @@
+ul{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding-left: 20%;
+
+}
+img{
+    float: right;
+    width: 50%;
+    height: 30%;
+    padding-bottom: 60px;
+    /* background-color: ; */
+    /* border-radius: 100%; */
+}
+#chicken{
+    border-radius: 100%;
+}
+button{
+    padding: 10px;
+    margin: 60px;
+    background-color: #fab005;
+    border-radius: 10px;
+    border-style: none;
+}
+.paragraph{
+margin: 20px;
+margin-top: 20px;
+padding-left: 40px;
+padding-top: 20px;
+}
+/* .healthy life{
+color: #fab005;
+font-style: calc()
+} */
+/* .c{
+ text-align: center;
+ padding-top: 60px;
+} */
+  h4{
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+}  
+second paragraph{
+padding-bottom: 60px;
+}
+/* .images{
+    display: flex;
+    margin-top: 10%;
+
+} */
+menu{
+    padding: 10px;
+    margin: 0px;
+    background-color: #fab005;
+    border-radius: 10px;  
+}
+.bestcooks{
+     /* margin: 20px;  */
+     margin-top: 20px; 
+      padding-left: 40px;  
+    font-size: 15px;
+    /* padding-top: 20px;  */
+}
+#chickensalad{
+    height: 65%;
+    width: 60%;
+    border-radius: 100%;
+}
+#chickensalad1{
+    margin-left: -55%;
+    height: 65%;
+    width: 100%;
+    border-radius: 100%;
+}
+#chickensalad2{
+    height: 65%;
+    width: 100%;
+    border-radius: 100%;
+}
+#chickensalad3{
+    height: 65%;
+    width: 100%;
+    border-radius: 100%;
+    margin-right: -10%;
+}
+#addtocart{
+    margin-left: -60%;
+    margin-top: 80%;
+    padding: 7px 20px;
+}
+#addtocart2{
+    margin-left: -60%;
+    margin-top: 130%;
+    padding: 5px 40px;
+}
+#addtocart1{
+    margin-left: -60%;
+    margin-top: 130%;
+    padding: 5px 40px;
+}
+#addtocart3{
+    margin-left: -60%;
+    margin-top: 130%;
+    padding: 5px 40px;
+}
+
+.images div{ 
+ display: flex;
+ gap: 2px;
+ padding-left: 30px;
+ margin-right: 3%;
+ /* margin-left: 10%; */
+  /* padding-right: 40px;  */
+ /* background-color: #fff0f6; */
+ /* margin-bottom: 40px; */
+} 
+.specialoffer{
+  text-align: center;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 60px;
+}
+.specialimage{
+width: 330px;
+height: 340px;
+border-radius: 90%;
+margin-right: 15%;
+}
+.special{
+ background-color: #fff0f6
+}
+.Quality{
+ text-align: center;
+}
+.doorstep{
+ text-align: center;
+}
+.burger{
+ padding: 30ox;
+ width: 180px;
+ height: 200px;
+ float: left;
+ padding-top: 20px;
+}
+.miniparagraph{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px; 
+}
+
+.firstparagraph{
+ background-color: #fff0f6;
+}
+/* .online{
+  text-align: center; 
+} */
+.onlinestore{
+ text-align: center;
+}
+h1{
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 60px;   
+    
+}
+.saladimage{
+    padding: 30px;
+    width: 180px;
+    height: 200px;
+    border-radius: 100%;
+    /* float: left; */
+}
+.location{
+ width: 150px;
+ height: 300px;
+ color: #fab005;
+}
+.restauranticon{
+    width: 150px;
+    height: 300px;
+    color: #fab005;
+}
+/* .ourservice{
+ background-color: #fff0f6; */
+
+.heading3{
+ text-align: center;
+ font-size: 40px;
+}
+.bestoffer{
+font-size: 40px;
+}
+.resto{
+ font-style: oblique;
+ font-family: sans-serif;
+ font-size: 20px;
+ font-weight: bold;
+}
+.qualityicon{
+    width: 150px;
+    height: 300px;
+    color: #fab005;
+}
+.Goodquality{
+    font-style: oblique;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.fastfood{
+    width: 150px;
+    height: 300px;
+    color: #fab005;
+}
+.fastserviceicon{
+    font-style: oblique;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.gifts{
+    font-style: oblique;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.discounts{
+    width: 150px;
+    height: 300px;
+    color: #fab005;
+}
+
+/* .bicycleicon{
+    width: 150px;
+    height: 300px;
+    color: #fab005;
+} */
+.ourservic{
+ display: flex;
+ justify-content: space-between;
+}
+.iconsparagraph{
+ display: flex;
+ justify-content: space-between;
+}
+.Testimonial{
+ text-align: center;
+}
+.clients{
+    font-size: 60px
+}
+.quatationmark{
+ color: #fab005;
+ font-size: 80px;
+}
+.backgroundd{
+background-color: #fff0f6;
+padding: 20px;
+}
+lorem{
+   text-align: center; 
+}
+.headshots{
+    display: flex;
+   justify-content: space-between;
+   width: 60%;
+   /* margin-left: 100px; */
+   padding-left: 80px;
+}
+.headshot1{
+ margin: 10px;
+ width: 35%;
+ height: 40%;
+ 
+}
+.headshot2{
+    margin: 10px;
+    width: 40%;
+    height: 40%;
+}
+.headshot3{
+    margin: 10px;
+    width: 40%;
+    height: 40%;
+}
+.headshot4{
+    margin: 10px;
+    width: 40%;
+    height: 40%;
+}
+.phoneimage{
+ height: 20%;
+ margin-right: 70%;
+ width: 20%;
+}
+ .lastparagraph{
+ background-color: #fff0f6; 
+ }
+
+.App{
+    font-size: 40px;
+    text-align: center;
+}
+.bestoffer{
+text-align: center;
+font-size: 40px;
+text-align: center;
+} 
+/* .Discover{
+  margin-right: 80%;
+ float: right;
+ margin-bottom: 100%;
+  padding-top: 80px; 
+} */
+
+
+
+
